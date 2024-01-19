@@ -1,0 +1,16 @@
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\bin\Debug\WindowsFormsApp3_2.exe.config
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\bin\Debug\WindowsFormsApp3_2.exe
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\bin\Debug\WindowsFormsApp3_2.pdb
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.Form1.resources
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.Properties.Resources.resources
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.csproj.GenerateResource.cache
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.exe
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.pdb
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\bin\Debug\yo-NG\WindowsFormsApp3_2.resources.dll
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.Form1.yo-NG.resources
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\yo-NG\WindowsFormsApp3_2.resources.dll
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\bin\Debug\vi-VN\WindowsFormsApp3_2.resources.dll
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\WindowsFormsApp3_2.Form1.vi-VN.resources
+C:\Users\APC\Desktop\C#\WindowsForms1\WindowsFormsApp3_2\obj\Debug\vi-VN\WindowsFormsApp3_2.resources.dll

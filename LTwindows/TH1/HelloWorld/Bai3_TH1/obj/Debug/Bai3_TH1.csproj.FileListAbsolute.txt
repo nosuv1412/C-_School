@@ -1,0 +1,8 @@
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\bin\Debug\Bai3_TH1.exe.config
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\bin\Debug\Bai3_TH1.exe
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\bin\Debug\Bai3_TH1.pdb
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\obj\Debug\Bai3_TH1.csproj.SuggestedBindingRedirects.cache
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\obj\Debug\Bai3_TH1.csproj.CoreCompileInputs.cache
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\obj\Debug\Bai3_TH1.exe
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\obj\Debug\Bai3_TH1.pdb
+G:\C#\LTwindows\HelloWorld\Bai3_TH1\obj\Debug\Bai3_TH1.csproj.AssemblyReference.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4e7546a-9881-4b70-9d80-04e86de0dea9": {
+      "ProjectGuid": "f4e7546a-9881-4b70-9d80-04e86de0dea9",
+      "DisplayName": "TH8.2",
+      "ColorIndex": 0
+    },
+    "1f52e475-d270-40aa-84ca-ada5c06aeb5c": {
+      "ProjectGuid": "1f52e475-d270-40aa-84ca-ada5c06aeb5c",
+      "DisplayName": "TH8.1",
+      "ColorIndex": 1
+    },
+    "3cec3cae-d802-4935-b614-87c6d3efd1be": {
+      "ProjectGuid": "3cec3cae-d802-4935-b614-87c6d3efd1be",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

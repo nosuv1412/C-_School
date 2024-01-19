@@ -1,0 +1,10 @@
+C:\Users\APC\Desktop\C#\form practice\form practice\bin\Debug\form practice.exe.config
+C:\Users\APC\Desktop\C#\form practice\form practice\bin\Debug\form practice.exe
+C:\Users\APC\Desktop\C#\form practice\form practice\bin\Debug\form practice.pdb
+C:\Users\APC\Desktop\C#\form practice\form practice\obj\Debug\form practice.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\form practice\form practice\obj\Debug\form_practice.Form1.resources
+C:\Users\APC\Desktop\C#\form practice\form practice\obj\Debug\form_practice.Properties.Resources.resources
+C:\Users\APC\Desktop\C#\form practice\form practice\obj\Debug\form practice.csproj.GenerateResource.cache
+C:\Users\APC\Desktop\C#\form practice\form practice\obj\Debug\form practice.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\form practice\form practice\obj\Debug\form practice.exe
+C:\Users\APC\Desktop\C#\form practice\form practice\obj\Debug\form practice.pdb

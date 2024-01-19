@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/GnATGHV4I4j6O4K0Sc5PmyWoo7I4bDgMJxbpT6rSKQA4vThoCmvDSwEgh+X+0E2n+3xXEd1IHQ9PD7khhc7A==",
+  "success": true,
+  "projectFilePath": "G:\\C#\\btap_lop\\bai2\\bai2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hien Vu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Hien Vu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Hien Vu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hien Vu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

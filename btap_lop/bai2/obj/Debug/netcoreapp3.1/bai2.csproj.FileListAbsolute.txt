@@ -1,0 +1,13 @@
+C:\Users\APC\Desktop\C#\btap_lop\bai2\bin\Debug\netcoreapp3.1\bai2.exe
+C:\Users\APC\Desktop\C#\btap_lop\bai2\bin\Debug\netcoreapp3.1\bai2.deps.json
+C:\Users\APC\Desktop\C#\btap_lop\bai2\bin\Debug\netcoreapp3.1\bai2.runtimeconfig.json
+C:\Users\APC\Desktop\C#\btap_lop\bai2\bin\Debug\netcoreapp3.1\bai2.runtimeconfig.dev.json
+C:\Users\APC\Desktop\C#\btap_lop\bai2\bin\Debug\netcoreapp3.1\bai2.dll
+C:\Users\APC\Desktop\C#\btap_lop\bai2\bin\Debug\netcoreapp3.1\bai2.pdb
+C:\Users\APC\Desktop\C#\btap_lop\bai2\obj\Debug\netcoreapp3.1\bai2.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\btap_lop\bai2\obj\Debug\netcoreapp3.1\bai2.AssemblyInfoInputs.cache
+C:\Users\APC\Desktop\C#\btap_lop\bai2\obj\Debug\netcoreapp3.1\bai2.AssemblyInfo.cs
+C:\Users\APC\Desktop\C#\btap_lop\bai2\obj\Debug\netcoreapp3.1\bai2.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\btap_lop\bai2\obj\Debug\netcoreapp3.1\bai2.dll
+C:\Users\APC\Desktop\C#\btap_lop\bai2\obj\Debug\netcoreapp3.1\bai2.pdb
+C:\Users\APC\Desktop\C#\btap_lop\bai2\obj\Debug\netcoreapp3.1\bai2.genruntimeconfig.cache

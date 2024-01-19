@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94f00f84-5f07-4389-8731-7b9710a9c572": {
+      "ProjectGuid": "94f00f84-5f07-4389-8731-7b9710a9c572",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "b3a94ada-fee2-4a95-bdb6-e3f1a0f7a65c": {
+      "ProjectGuid": "b3a94ada-fee2-4a95-bdb6-e3f1a0f7a65c",
+      "DisplayName": "Bai2_TH1",
+      "ColorIndex": 1
+    },
+    "3fad035f-0ce8-4f19-9be9-a47d245639a8": {
+      "ProjectGuid": "3fad035f-0ce8-4f19-9be9-a47d245639a8",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    },
+    "2e524b1b-5027-44e9-851b-8f6e1ba8f419": {
+      "ProjectGuid": "2e524b1b-5027-44e9-851b-8f6e1ba8f419",
+      "DisplayName": "Bai3_TH1",
+      "ColorIndex": 3
+    },
+    "3e691e76-e69d-4d82-8ff8-ae95cb1ca8c4": {
+      "ProjectGuid": "3e691e76-e69d-4d82-8ff8-ae95cb1ca8c4",
+      "DisplayName": "Bai4_TH1",
+      "ColorIndex": 4
+    },
+    "ece65af3-0a50-4358-8dfc-851dbf91c6b6": {
+      "ProjectGuid": "ece65af3-0a50-4358-8dfc-851dbf91c6b6",
+      "DisplayName": "Bai5_TH1",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,13 @@
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\bin\Debug\netcoreapp3.1\btap_lop.exe
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\bin\Debug\netcoreapp3.1\btap_lop.deps.json
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\bin\Debug\netcoreapp3.1\btap_lop.runtimeconfig.json
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\bin\Debug\netcoreapp3.1\btap_lop.runtimeconfig.dev.json
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\bin\Debug\netcoreapp3.1\btap_lop.dll
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\bin\Debug\netcoreapp3.1\btap_lop.pdb
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\obj\Debug\netcoreapp3.1\btap_lop.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\obj\Debug\netcoreapp3.1\btap_lop.AssemblyInfoInputs.cache
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\obj\Debug\netcoreapp3.1\btap_lop.AssemblyInfo.cs
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\obj\Debug\netcoreapp3.1\btap_lop.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\obj\Debug\netcoreapp3.1\btap_lop.dll
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\obj\Debug\netcoreapp3.1\btap_lop.pdb
+C:\Users\APC\Desktop\C#\btap_lop\btap_lop\obj\Debug\netcoreapp3.1\btap_lop.genruntimeconfig.cache

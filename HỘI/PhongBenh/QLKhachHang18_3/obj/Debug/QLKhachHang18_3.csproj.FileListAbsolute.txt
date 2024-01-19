@@ -1,0 +1,11 @@
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\bin\Debug\QLKhachHang18_3.exe.config
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\bin\Debug\QLKhachHang18_3.exe
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\bin\Debug\QLKhachHang18_3.pdb
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.csproj.AssemblyReference.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.Form1.resources
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.Properties.Resources.resources
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.csproj.GenerateResource.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.csproj.CoreCompileInputs.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.exe
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\QLKhachHang18_3\obj\Debug\QLKhachHang18_3.pdb

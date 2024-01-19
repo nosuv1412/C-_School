@@ -1,0 +1,10 @@
+C:\Users\APC\Desktop\C#\practice form\practice form\obj\Debug\practice form.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\practice form\practice form\obj\Debug\practice_form.Form1.resources
+C:\Users\APC\Desktop\C#\practice form\practice form\obj\Debug\practice_form.Properties.Resources.resources
+C:\Users\APC\Desktop\C#\practice form\practice form\obj\Debug\practice form.csproj.GenerateResource.cache
+C:\Users\APC\Desktop\C#\practice form\practice form\obj\Debug\practice form.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\practice form\practice form\bin\Debug\practice form.exe.config
+C:\Users\APC\Desktop\C#\practice form\practice form\bin\Debug\practice form.exe
+C:\Users\APC\Desktop\C#\practice form\practice form\bin\Debug\practice form.pdb
+C:\Users\APC\Desktop\C#\practice form\practice form\obj\Debug\practice form.exe
+C:\Users\APC\Desktop\C#\practice form\practice form\obj\Debug\practice form.pdb

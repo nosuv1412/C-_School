@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\bin\Debug\BaiLam.exe.config
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\bin\Debug\BaiLam.exe
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\bin\Debug\BaiLam.pdb
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.Form1.resources
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.Properties.Resources.resources
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.GenerateResource.cache
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.exe
+C:\Users\user\source\repos\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.pdb
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\bin\Debug\BaiLam.exe.config
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\bin\Debug\BaiLam.exe
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\bin\Debug\BaiLam.pdb
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.AssemblyReference.cache
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.Form1.resources
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.Properties.Resources.resources
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.GenerateResource.cache
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.csproj.CoreCompileInputs.cache
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.exe
+C:\Users\Hien Vu\Downloads\48_DangVanDuong_62THNB\BaiLam\obj\Debug\BaiLam.pdb

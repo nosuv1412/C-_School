@@ -1,0 +1,11 @@
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\bin\Debug\ket_noi_thuc_hanh1.exe.config
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\bin\Debug\ket_noi_thuc_hanh1.exe
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\bin\Debug\ket_noi_thuc_hanh1.pdb
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.Form1.resources
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.Properties.Resources.resources
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.csproj.GenerateResource.cache
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.exe
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.pdb
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_thuc_hanh1\obj\Debug\ket_noi_thuc_hanh1.csproj.SuggestedBindingRedirects.cache

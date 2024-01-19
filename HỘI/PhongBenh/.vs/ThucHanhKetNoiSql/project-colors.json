@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db118ad5-edd1-4033-a698-c818680fa10d": {
+      "ProjectGuid": "db118ad5-edd1-4033-a698-c818680fa10d",
+      "DisplayName": "PhongBenh",
+      "ColorIndex": 0
+    },
+    "47ebed2a-6646-46dc-a3ca-0952ca0cd13c": {
+      "ProjectGuid": "47ebed2a-6646-46dc-a3ca-0952ca0cd13c",
+      "DisplayName": "QLKhachHang18_3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

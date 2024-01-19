@@ -1,0 +1,12 @@
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.Properties.Resources.resources
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.csproj.GenerateResource.cache
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\bin\Debug\ket_noi_sql.exe.config
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\bin\Debug\ket_noi_sql.exe
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\bin\Debug\ket_noi_sql.pdb
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.exe
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.pdb
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.ket_noi_sql.resources
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.PhongBenh.resources
+C:\Users\APC\Desktop\C#\ket_noi_sql\ket_noi_sql\obj\Debug\ket_noi_sql.csproj.SuggestedBindingRedirects.cache

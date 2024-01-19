@@ -1,0 +1,22 @@
+G:\C#\LTwindows\QLKH\bin\Debug\QLKH.exe.config
+G:\C#\LTwindows\QLKH\bin\Debug\QLKH.exe
+G:\C#\LTwindows\QLKH\bin\Debug\QLKH.pdb
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.csproj.AssemblyReference.cache
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.csproj.SuggestedBindingRedirects.cache
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.Form1.resources
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.Properties.Resources.resources
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.csproj.GenerateResource.cache
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.csproj.CoreCompileInputs.cache
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.exe
+G:\C#\LTwindows\QLKH\obj\Debug\QLKH.pdb
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\bin\Debug\QLKH.exe.config
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\bin\Debug\QLKH.exe
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\bin\Debug\QLKH.pdb
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.csproj.AssemblyReference.cache
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.csproj.SuggestedBindingRedirects.cache
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.Form1.resources
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.Properties.Resources.resources
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.csproj.GenerateResource.cache
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.csproj.CoreCompileInputs.cache
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.exe
+G:\C#\LTwindows\208_LTW_Nguyen Huu Truong_2051060752_62THNB\QLKH\obj\Debug\QLKH.pdb

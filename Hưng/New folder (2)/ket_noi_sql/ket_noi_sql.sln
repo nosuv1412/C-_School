@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ket_noi_sql", "ket_noi_sql\ket_noi_sql.csproj", "{354B272B-D874-4B8D-A391-C20F7F57FD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ket_noi_thuc_hanh1", "ket_noi_thuc_hanh1\ket_noi_thuc_hanh1.csproj", "{0FE317AC-6626-4E6B-98F0-88E2A2706B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354B272B-D874-4B8D-A391-C20F7F57FD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354B272B-D874-4B8D-A391-C20F7F57FD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354B272B-D874-4B8D-A391-C20F7F57FD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354B272B-D874-4B8D-A391-C20F7F57FD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE317AC-6626-4E6B-98F0-88E2A2706B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE317AC-6626-4E6B-98F0-88E2A2706B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE317AC-6626-4E6B-98F0-88E2A2706B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE317AC-6626-4E6B-98F0-88E2A2706B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F9FB06-CF4A-42CE-904C-282CBFA6A1A3}
+	EndGlobalSection
+EndGlobal

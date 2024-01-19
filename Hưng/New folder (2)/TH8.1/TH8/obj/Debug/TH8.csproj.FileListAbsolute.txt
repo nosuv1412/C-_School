@@ -1,0 +1,11 @@
+C:\Users\APC\Desktop\C#\TH8.1\TH8\bin\Debug\TH8.exe.config
+C:\Users\APC\Desktop\C#\TH8.1\TH8\bin\Debug\TH8.exe
+C:\Users\APC\Desktop\C#\TH8.1\TH8\bin\Debug\TH8.pdb
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.csproj.SuggestedBindingRedirects.cache
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.Form1.resources
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.Properties.Resources.resources
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.csproj.GenerateResource.cache
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.exe
+C:\Users\APC\Desktop\C#\TH8.1\TH8\obj\Debug\TH8.pdb

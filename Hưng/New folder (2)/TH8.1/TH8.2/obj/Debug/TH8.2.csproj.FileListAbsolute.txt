@@ -1,0 +1,22 @@
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\bin\Debug\TH8.2.exe.config
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\bin\Debug\TH8.2.exe
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\bin\Debug\TH8.2.pdb
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.AssemblyReference.cache
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8._2.Form1.resources
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8._2.Properties.Resources.resources
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.GenerateResource.cache
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.CoreCompileInputs.cache
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8.2.exe
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8.2.pdb
+C:\Users\APC\Desktop\C#\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.SuggestedBindingRedirects.cache
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\bin\Debug\TH8.2.exe.config
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\bin\Debug\TH8.2.exe
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\bin\Debug\TH8.2.pdb
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.AssemblyReference.cache
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.SuggestedBindingRedirects.cache
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8._2.Form1.resources
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8._2.Properties.Resources.resources
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.GenerateResource.cache
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8.2.csproj.CoreCompileInputs.cache
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8.2.exe
+G:\C#\Hưng\New folder (2)\TH8.1\TH8.2\obj\Debug\TH8.2.pdb

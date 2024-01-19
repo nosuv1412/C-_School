@@ -1,0 +1,8 @@
+G:\C#\LTwindows\B1_TH3\bin\Debug\B1_TH3.exe.config
+G:\C#\LTwindows\B1_TH3\bin\Debug\B1_TH3.exe
+G:\C#\LTwindows\B1_TH3\bin\Debug\B1_TH3.pdb
+G:\C#\LTwindows\B1_TH3\obj\Debug\B1_TH3.csproj.AssemblyReference.cache
+G:\C#\LTwindows\B1_TH3\obj\Debug\B1_TH3.csproj.SuggestedBindingRedirects.cache
+G:\C#\LTwindows\B1_TH3\obj\Debug\B1_TH3.csproj.CoreCompileInputs.cache
+G:\C#\LTwindows\B1_TH3\obj\Debug\B1_TH3.exe
+G:\C#\LTwindows\B1_TH3\obj\Debug\B1_TH3.pdb

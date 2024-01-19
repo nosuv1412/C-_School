@@ -1,0 +1,8 @@
+G:\C#\LTwindows\ThucHanh2\bin\Debug\ThucHanh2.exe.config
+G:\C#\LTwindows\ThucHanh2\bin\Debug\ThucHanh2.exe
+G:\C#\LTwindows\ThucHanh2\bin\Debug\ThucHanh2.pdb
+G:\C#\LTwindows\ThucHanh2\obj\Debug\Bai1.csproj.AssemblyReference.cache
+G:\C#\LTwindows\ThucHanh2\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+G:\C#\LTwindows\ThucHanh2\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+G:\C#\LTwindows\ThucHanh2\obj\Debug\ThucHanh2.exe
+G:\C#\LTwindows\ThucHanh2\obj\Debug\ThucHanh2.pdb

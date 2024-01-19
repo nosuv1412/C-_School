@@ -1,0 +1,11 @@
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\bin\Debug\VB_NguyenPhuongNam_142365.exe.config
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\bin\Debug\VB_NguyenPhuongNam_142365.exe
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\bin\Debug\VB_NguyenPhuongNam_142365.pdb
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.csproj.AssemblyReference.cache
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.csproj.SuggestedBindingRedirects.cache
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.Form1.resources
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.Properties.Resources.resources
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.csproj.GenerateResource.cache
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.csproj.CoreCompileInputs.cache
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.exe
+G:\C#\LTwindows\VB_NguyenPhuongNam_142365\obj\Debug\VB_NguyenPhuongNam_142365.pdb

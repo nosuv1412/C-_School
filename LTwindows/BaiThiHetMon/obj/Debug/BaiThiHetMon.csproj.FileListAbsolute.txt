@@ -1,0 +1,15 @@
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.csproj.AssemblyReference.cache
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.csproj.SuggestedBindingRedirects.cache
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.Form1.resources
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.Khoa.resources
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.MonHoc.resources
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.Properties.Resources.resources
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.SinhVien.resources
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.XemDiem.resources
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.csproj.GenerateResource.cache
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.csproj.CoreCompileInputs.cache
+G:\C#\LTwindows\BaiThiHetMon\bin\Debug\BaiThiHetMon.exe.config
+G:\C#\LTwindows\BaiThiHetMon\bin\Debug\BaiThiHetMon.exe
+G:\C#\LTwindows\BaiThiHetMon\bin\Debug\BaiThiHetMon.pdb
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.exe
+G:\C#\LTwindows\BaiThiHetMon\obj\Debug\BaiThiHetMon.pdb

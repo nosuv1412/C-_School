@@ -1,0 +1,12 @@
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\bin\Debug\ThucHanhKetNoiSql.exe.config
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\bin\Debug\ThucHanhKetNoiSql.exe
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\bin\Debug\ThucHanhKetNoiSql.pdb
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\PhongBenh.csproj.AssemblyReference.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\PhongBenh.csproj.SuggestedBindingRedirects.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\ThucHanhKetNoiSql.Form1.resources
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\ThucHanhKetNoiSql.PhongBenh.resources
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\ThucHanhKetNoiSql.Properties.Resources.resources
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\PhongBenh.csproj.GenerateResource.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\PhongBenh.csproj.CoreCompileInputs.cache
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\ThucHanhKetNoiSql.exe
+C:\Users\lchry\source\repos\ThucHanhKetNoiSql\ThucHanhKetNoiSql\obj\Debug\ThucHanhKetNoiSql.pdb
